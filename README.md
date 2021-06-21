@@ -28,7 +28,8 @@ Hi, I'm Vaibhav , a passionate self-taught Full Stack web developer and a softwa
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
 
-
+<br>
+<br>
 
 
 
