@@ -7,7 +7,7 @@ Hi, I'm Vaibhav , a passionate self-taught Full Stack web developer and a softwa
   
 - 💼 Any freelance work? Do reach, [email](mailto:vaibhavces@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
-- ✉️ If no queries and still you are here don't forget to say me hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+- ✉️ If no queries and still you are here don't forget to say me hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, block me here 🎥 https://calendly.com/vaibhavces
 
 
 - <h2 align="left">:hammer_and_wrench: Technologies and Tools I use</h2>
